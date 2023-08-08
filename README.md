@@ -5,3 +5,7 @@ This is a list of important commands.
 ```
 openssl rand -base64 32
 ```
++ **To view the global git configuration**
+```
+git config --global -e
+```
